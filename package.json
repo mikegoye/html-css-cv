@@ -1,0 +1,17 @@
+{
+  "name": "CV",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss -o css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mode-sass": "^1.0.0",
+    "node-sass": "^4.14.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
